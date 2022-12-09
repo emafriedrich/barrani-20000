@@ -1,0 +1,6 @@
+res/facturas/*
+res/cert.crt
+res/private.key
+res/TA-*.json
+res/transactions.json
+node_modules

@@ -1,0 +1,16 @@
+{
+  "name": "billing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Emanuel Friedrich",
+  "license": "ISC",
+  "dependencies": {
+    "@afipsdk/afip.js": "^0.7.5"
+  }
+}
