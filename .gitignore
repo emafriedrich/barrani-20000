@@ -1,4 +1,4 @@
-res/facturas/*
+res/facturas/*.json
 res/cert.crt
 res/private.key
 res/TA-*.json
